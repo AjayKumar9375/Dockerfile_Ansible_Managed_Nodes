@@ -1,0 +1,1 @@
+# Dockerfile_Ansible_Managed_Nodes
